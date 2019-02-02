@@ -1,0 +1,60 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+#VS
+*.tlog
+*.iobj
+*.ipdb
+*.pdb
+*.obj
+*.lastbuildstate
+*.vspx
+*.ipch
+*.map
+*.tlog/*
+*.ipdb
+*.db
+*.png
+*.ide
+*.lock
+*.idb
+*.enc
+*Temporary*
+*FileListAbsolute.txt
+*.opendb
+*.exe.config
+*.ide-shm
+*.ide-wal
+*.CopyComplete
+*enc_temp_folder*
